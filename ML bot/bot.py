@@ -11,7 +11,7 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
                     level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-API_TOKEN = '7643982179:AAEtBUGp0tT94IkqOdhN6hk-gMUl_zBhYk8'
+API_TOKEN = ''
 
 current_model = "boris"
 
