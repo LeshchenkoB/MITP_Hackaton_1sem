@@ -71,7 +71,7 @@ requirementsENB5.txt
 
 **веса моделей (дообученные модели, используемые для предикта):**  
 [ResNet18](https://drive.google.com/file/d/1osRY3Wv3TXKlhT9wbPtFQd9_cjWZOFK0/view?usp=drive_link)  
-[EfficientNetB3](https://drive.google.com/file/d/1dxG_qHsnk81qe_oLsdSoBptDeo5ZEJfC/view?usp=drive_link)
+[EfficientNetB3](https://drive.google.com/file/d/1dxG_qHsnk81qe_oLsdSoBptDeo5ZEJfC/view?usp=drive_link)  
 [EfficientNetB5](https://drive.google.com/file/d/12mB8aARcSAJa4Q50lyAB-E1xULvfUfah/view?usp=drive_link)
 
 **Датасет используемый для дообучения моделей**  
