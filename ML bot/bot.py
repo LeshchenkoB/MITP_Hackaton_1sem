@@ -3,8 +3,8 @@ import nest_asyncio
 from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, CallbackContext
 from telegram.ext.filters import PHOTO
-from model_predict_boris import predict_image as predict_boris
-from model_predict_nikita import pred_disease as predict_nikita
+from model_predict_ResNet18 import predict_image as predict_boris
+from model_predict_EfficientNetB5 import pred_disease as predict_nikita
 import asyncio
 
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
