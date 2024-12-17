@@ -62,7 +62,7 @@ pytorch-resnet18.ipynb
 EffecientNetB3.ipynb  
 EfficientNetB5.ipynb  
 
-**файлы Telegram чат-бота:** 
+**файлы Telegram чат-бота:**   
 bot.py  
 model_predict_ResNet18.py  
 model_predict_EfficientNetB5.py  
