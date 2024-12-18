@@ -63,7 +63,9 @@ EffecientNetB3.ipynb
 EfficientNetB5.ipynb  
 
 **файлы Telegram чат-бота:**   
-В процессе выполнения задач Хакатона дообучались 3 модели, но в чат-бот включены только 2 из них - на разных архитектурах (ResNet18 и EfficientNetB5).  
+В процессе выполнения задач Хакатона дообучались 3 модели, но в чат-бот включены только 2 из них - на разных архитектурах (ResNet18 и EfficientNetB5). 
+ 
+Сами файлы:    
 bot.py  
 model_predict_ResNet18.py  
 model_predict_EfficientNetB5.py  
