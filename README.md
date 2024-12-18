@@ -70,7 +70,8 @@ bot.py
 model_predict_ResNet18.py  
 model_predict_EfficientNetB5.py  
 
-Для корректной работы чат-бота необходимо скачать и "положить рядом" файлы model_predict_ResNet18.py и model_predict_EfficientNetB5.py, а так же дообученные модели для предикта(ResNet18 и EfficientNetB5), которые можно скачать по ссылкам ниже.
+Для корректной работы чат-бота необходимо скачать и "положить рядом" файлы model_predict_ResNet18.py и model_predict_EfficientNetB5.py, а так же дообученные модели для предикта(ResNet18 и EfficientNetB5), которые можно скачать по ссылкам ниже.  
+Более подробную документацию по настройке бота можно посмотреть [здесь](https://core.telegram.org/bots/features#creating-a-new-bot)
 
 **файлы окружения:**  
 requirementsResNet18.txt  
