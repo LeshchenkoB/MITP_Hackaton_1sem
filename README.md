@@ -62,10 +62,13 @@ pytorch-resnet18.ipynb
 EffecientNetB3.ipynb  
 EfficientNetB5.ipynb  
 
-**файлы Telegram чат-бота:**   
+**файлы Telegram чат-бота:** 
+В процессе выполнения задач Хакатона дообучивались 3 модели, но в чат-бот включены только 2 из них - на разных архитектурах (ResNet18 и EfficientNetB5).  
 bot.py  
 model_predict_ResNet18.py  
 model_predict_EfficientNetB5.py  
+
+Для корректной работы чат-бота необходимо скачать и "положить рядом" файлы model_predict_ResNet18.py и model_predict_EfficientNetB5.py, а так же дообученные модели для предикта, которые можно скачать по ссылкам ниже.
 
 **файлы окружения:**  
 requirementsResNet18.txt  
